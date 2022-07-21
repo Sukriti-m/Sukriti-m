@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
 ## 🔥 Streak stats
 
 <p align="center">
@@ -30,3 +31,37 @@ Here are some ideas to get you started:
   <br/>
  </details>
 
+<a href="https://github.com/Sukriti-m/github-readme-activity-graph"><img alt="Sukriti-m Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sukriti-m&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
+-->
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Sukriti-m}/count.svg)  
+</a>
+
+<hr>
+
+# Github Activity📊:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sukriti-m&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukriti-m&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukriti-m&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+   <td>
+  </td>
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukriti-m&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Sukriti-m&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
