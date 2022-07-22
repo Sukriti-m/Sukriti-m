@@ -18,7 +18,23 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
     <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" />
-</p>    
+</p>   
+<h2> 🌈 &nbsp;About Me:</h2>
+
+```yaml
+name: Sukriti Maurya
+pronouns: She/Her
+located_in: Ghaziabad, India
+education: B.Tech. Sophomore @AKGEC,Ghaziabad
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "UI/UX",
+  ]
+hobbies: ["Photography", "Designing"]
+```
+
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
 <table>
@@ -59,13 +75,16 @@ Here are some ideas to get you started:
  
 </table>
 
-</p><br>
+</p>
 <h2> 📫 &nbspConnect With Me:</h2>                                                                                                             
-<p><a href="[https://linkedin.com/in/apurva866](https://www.linkedin.com/in/sukriti-maurya-5248421b0/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukriti-maurya-5248421b0" height="30" width="40" /></a>
+<p><a href="https://www.linkedin.com/in/sukriti-maurya-5248421b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukriti-maurya-5248421b0" height="30" width="40" /></a>
 <a href="mailto:sukritimaurya.fzd@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a>
 
-</p><br>
+
+</p>
+<h2> ✒️ &nbspBlog:</h2>  
+ <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc"><img align="center" src="https://user-images.githubusercontent.com/93239528/180376651-6ea31cc1-1cc7-4c3e-b094-287c557e8489.png" alt="GSSoC'22" height="48" width="45" />   A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> 
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg">
   
