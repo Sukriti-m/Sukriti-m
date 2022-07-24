@@ -29,8 +29,7 @@ education: B.Tech. Sophomore @AKGEC,Ghaziabad
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "UI/UX",
+    "UI/UX Designing",
   ]
 hobbies: ["Photography", "Designing"]
 ```
