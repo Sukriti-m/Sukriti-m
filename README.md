@@ -79,6 +79,7 @@ hobbies: ["Photography", "Designing"]
 <p><a href="https://www.linkedin.com/in/sukriti-maurya-5248421b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukriti-maurya-5248421b0" height="30" width="40" /></a>
 <a href="mailto:sukritimaurya.fzd@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a>
+<a href="https://www.behance.net/sukritimaurya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/182020298-b3b10033-c26c-4750-85b2-cd9286499c68.svg" alt="sukritimaurya" height="30" width="40" /></a>
 
 
 </p>
