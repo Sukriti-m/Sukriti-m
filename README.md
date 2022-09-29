@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 name: Sukriti Maurya
 pronouns: She/Her
 located_in: Ghaziabad, India
-education: B.Tech. Sophomore @AKGEC,Ghaziabad
+education: B.Tech. 3rd Year Student @AKGEC,Ghaziabad
 fields_of_interests:
   [
     "Web Development",
