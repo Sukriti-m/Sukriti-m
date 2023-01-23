@@ -83,9 +83,9 @@ hobbies: ["Photography", "Designing"]
 </p>
 <h2> ✒️ &nbspBlog:</h2>  
 <ol>
-<li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
-  <li> <a href="https://sukritim.hashnode.dev/what-is-http-and-https"> What is HTTP and HTTPS? </a> <br>
-  <li>   <a href="https://sukritim.hashnode.dev/basics-of-aws">Basics Of AWS </a> </ol>
+<li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc" target="_blank">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
+  <li> <a href="https://sukritim.hashnode.dev/what-is-http-and-https" target="_blank"> What is HTTP and HTTPS? </a> <br>
+  <li>   <a href="https://sukritim.hashnode.dev/basics-of-aws" target="_blank">Basics Of AWS </a> </ol>
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg">
   
