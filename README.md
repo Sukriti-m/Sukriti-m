@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" />
 </p>   
+<h2> 🎀 &nbsp;Hacktoberfest'23 Badges</h2>
+
+[![An image of @sukriti198's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukriti198)](https://holopin.io/@sukriti198)  
+
 <h2> 🌈 &nbsp;About Me:</h2>
 
 ```yaml
@@ -72,7 +76,7 @@ hobbies: ["Photography", "Designing"]
 </table>
 
 </p>
-<h2> 📫 &nbspConnect With Me:</h2>                                                                                                             
+<h2> 📫 &nbsp;Connect With Me:</h2>                                                                                                             
 <p><a href="https://www.linkedin.com/in/sukriti-maurya-5248421b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukriti-maurya-5248421b0" height="30" width="40" /></a>
 <a href="mailto:sukritimaurya.fzd@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a>
@@ -80,7 +84,7 @@ hobbies: ["Photography", "Designing"]
 
 
 </p>
-<h2> ✒️ &nbspBlog:</h2>  
+<h2> ✒️ &nbsp;Blog:</h2>  
 <ol>
 <li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc" target="_blank">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
   <li> <a href="https://sukritim.hashnode.dev/what-is-http-and-https" target="_blank"> What is HTTP and HTTPS? </a> <br>
@@ -95,8 +99,7 @@ hobbies: ["Photography", "Designing"]
 
 <hr>
 
-# 📊 Github Activity:
-
+<h2> 📊 &nbsp;Github Activity:</h2>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Sukriti-m&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -109,14 +112,12 @@ hobbies: ["Photography", "Designing"]
   </tr>
 </table>
 
-# 📈 Productivity Stats:
+<h2> 📈 &nbsp;Productivity Stats:</h2>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukriti-m&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
-
-[![An image of @sukriti198's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukriti198)](https://holopin.io/@sukriti198)  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
