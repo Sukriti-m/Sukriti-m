@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h2> 🎀 &nbsp;Hacktoberfest'23 Badges</h2>
 
 [![An image of @sukriti198's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukriti198)](https://holopin.io/@sukriti198)  
+<!---- [![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sukriti-m&theme=beach)] ---->
 
 <h2> 🌈 &nbsp;About Me:</h2>
 
