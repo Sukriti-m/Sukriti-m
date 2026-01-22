@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 ```yaml
 name: Sukriti Maurya
 pronouns: She/Her
-located_in: Ghaziabad, India
-education: B.Tech. 4th Year Student @AKGEC,Ghaziabad
+located_in: Gurugram, India
+education: B.Tech. @AKGEC,Ghaziabad
+role: Software Engineer @Salescode.ai
 fields_of_interests:
   [
     "Web Development",
@@ -92,12 +93,6 @@ hobbies: ["Photography", "Designing"]
 <li>   <a href="https://sukritim.hashnode.dev/introduction-to-apis" target="_blank">Introduction To APIs</a> <br>
   <li>   <a href="https://sukritim.hashnode.dev/basics-of-aws" target="_blank">Basics Of AWS</a>
                                                                               </ol>
-<h2> 📍 &nbsp;Visitor's Count:</h2>
-<a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{Sukriti-m}/count.svg)  
-</a>
-
 <hr>
 
 <h2> 📊 &nbsp;Github Activity:</h2>
